@@ -15,24 +15,26 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/eduardozl.035/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ <a href="https://www.linkedin.com/in/carlos-eduardo-ribeiro-do-patrocinio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+"</a>
 </div> 
  
 ### Main skills:
-![HTML](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=html&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=css&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 ### Other Knowledge:
   
 ### Studying in this moment:
-![HTML](https://img.shields.io/badge/html-14354C?style=for-the-badge&logo=html&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/css-%23092E20.svg?style=for-the-badge&logo=css&logoColor=white)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/javascript-%23092E20.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
 
 <div align="center">
