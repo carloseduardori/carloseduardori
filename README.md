@@ -30,9 +30,9 @@
 ### Other Knowledge:
   
 ### Studying in this moment:
-![HTML](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=html&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=css&logoColor=white)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/html-14354C?style=for-the-badge&logo=html&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css-%23092E20.svg?style=for-the-badge&logo=css&logoColor=white)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/javascript-%23092E20.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
 
 <div align="center">
